@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My App 05</string>
+    <string name="btnR1">ON/OFF R1</string>
+    <string name="btnR2">ON/OFF R2</string>
+    <string name="btnR3">ON/OFF R3</string>
+    <string name="txtR1Off">SALA OFF</string>
+    <string name="txtR2Off">COMEDOR OFF</string>
+    <string name="txtR3Off">COCINA OFF</string>
+    <string name="txtR1On">SALA ON</string>
+    <string name="txtR2On">COMEDOR ON</string>
+    <string name="txtR3On">COCINA ON</string>
+    <string name="btnCon">Vincular Dispositivo</string>
+
+</resources>
